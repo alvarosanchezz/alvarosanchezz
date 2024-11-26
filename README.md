@@ -1,6 +1,6 @@
 # 💻 Álvaro Sánchez  
 
-¡Hola! 👋 Soy Álvaro Sánchez, un estudiante de **Desarrollo de Aplicaciones Web** apasionado por el desarrollo de software, la programación y el crecimiento personal. Actualmente, estoy en mi primer año de carrera y trabajo en proyectos que combinan tecnología, creatividad y estrategia.
+¡Hola! 👋 Soy Álvaro Sánchez, un estudiante de **Desarrollo de Aplicaciones Web** apasionado por el desarrollo de software, la programación y el crecimiento personal. Actualmente, estoy en mi primer año y trabajo en proyectos que combinan tecnología, creatividad y estrategia.
 
 ---
 
@@ -8,7 +8,7 @@
 
 - 📚 **Estudiante de Desarrollo de Aplicaciones Web**  
 - 💼 Experiencia en proyectos personales de **mercadeo en línea** y **desarrollo web**.  
-- 🛠️ Habilidades: Desarrollo web, programación y resolución de problemas.  
+- 🛠️ **Habilidades**: Desarrollo web, programación y resolución de problemas.  
 - 💪 **Hobbies**: Gimnasio, deportes de lucha y desarrollo personal.  
 
 ---
