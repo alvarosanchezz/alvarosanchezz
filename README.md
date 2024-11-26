@@ -33,6 +33,6 @@
 
 - **Email**: alvsanrod2006@gmail.com  
 - **LinkedIn**: [Álvaro Sánchez](https://linkedin.com/in/tuperfil)  
-- **GitHub**: [@alvarosanchez](https://github.com/tuusuario)  
+- **GitHub**: [@alvarosanchezz](https://github.com/alvarosanchezz)  
 
 ---
