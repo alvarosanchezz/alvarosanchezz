@@ -9,7 +9,7 @@
 - 📚 **Estudiante de Desarrollo de Aplicaciones Web**  
 - 💼 Experiencia en proyectos personales de **mercadeo en línea** y **desarrollo web**.  
 - 🛠️ **Habilidades**: Desarrollo web, programación y resolución de problemas.  
-- 💪 **Hobbies**: Gimnasio, deportes de lucha y desarrollo personal.  
+- 💪 **Hobbies**: Gimnasio, deportes de contacto, desarrollo personal y viajar.  
 
 ---
 
